@@ -1,4 +1,4 @@
-![Image](https://github.com/studiopixelite/covidtracker/blob/master/screenshots/1.png)
+![Image](https://github.com/studiopixelite/instadown/blob/master/Library/Instadown%20By%20Pixelite.png?raw=true)
 
 # Instadown
 A C# library for downloading Instagram images, videos, and much more
