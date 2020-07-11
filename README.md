@@ -1,3 +1,5 @@
+![Image](https://github.com/studiopixelite/covidtracker/blob/master/screenshots/1.png)
+
 # Instadown
 A C# library for downloading Instagram images, videos, and much more
 
