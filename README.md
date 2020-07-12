@@ -24,3 +24,11 @@ public void SaveVideo()
  
 Check InstadownDemo.cs in the Library folder in the repository to see how to use the library
 
+# How to download
+
+Download the Instadown.dll file from the Library folder in the repository
+
+In Visual Studio, right click on your project's references and click on "Add Reference"
+
+Browse for where you placed the file and click OK.
+
