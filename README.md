@@ -32,3 +32,10 @@ In Visual Studio, right click on your project's references and click on "Add Ref
 
 Browse for where you placed the file and click OK.
 
+# Donate 
+
+Bitcoin Wallet Address - 36uVDZ7XVukrbM5DitAdEx1eNnqQNUVNgf
+
+Ethereum Wallet Address - 0x5256017bE8457eECC81F6F9a2cE0D2b4D03Fb767
+
+Skrill - creativegreatonic@gmail.com
