@@ -34,6 +34,8 @@ Browse for where you placed the file and click OK.
 
 # Donate 
 
+Credit/Debit Card - paylink.ng/studiopixelite
+
 Bitcoin Wallet Address - 36uVDZ7XVukrbM5DitAdEx1eNnqQNUVNgf
 
 Ethereum Wallet Address - 0x5256017bE8457eECC81F6F9a2cE0D2b4D03Fb767
