@@ -34,7 +34,7 @@ Browse for where you placed the file and click OK.
 
 # Donate 
 
-Credit/Debit Card - paylink.ng/studiopixelite
+Credit/Debit Card - https://paylink.ng/studiopixelite/
 
 Bitcoin Wallet Address - 36uVDZ7XVukrbM5DitAdEx1eNnqQNUVNgf
 
