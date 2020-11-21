@@ -3,6 +3,7 @@
 # Instadown
 A C# library for downloading Instagram images, videos, profile pictures, and getting info about an account
 
+
 # Target Framework
 .NET Framework 4.5 and above
 
@@ -31,6 +32,10 @@ Download the Instadown.dll file from the Library folder in the repository
 In Visual Studio, right click on your project's references and click on "Add Reference"
 
 Browse for where you placed the file and click OK.
+
+Or
+
+Go to NuGet - https://www.nuget.org/packages/Instadown/
 
 # Donate 
 
