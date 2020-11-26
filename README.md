@@ -14,13 +14,13 @@ public void SaveVideo()
 
 {
 
-    ProfileClass p = new ProfileClass();
+    MediaClass m = new MediaClass();
     
     string path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
     
-    p.inputUrl = "https://www.instagram.com/p/CCd0w4lJVKY/"; 
+    m.inputUrl = "https://www.instagram.com/p/CCd0w4lJVKY/"; 
     
-    p.DownloadVideo(path);
+    m.DownloadVideo(path);
  }
  
 Check InstadownDemo.cs in the Library folder in the repository to see how to use the library
