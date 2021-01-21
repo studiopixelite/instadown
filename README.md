@@ -4,10 +4,13 @@
 A C# library for downloading Instagram images, videos, profile pictures, and getting info about an account
 
 
-# Target Framework
-.NET Framework 4.5 and above
+# Requirements
+.NET Framework 4.6 and above, or
+.NET Core 3.1 and above
 
-Dependencies - Newtonsoft.Json 12.0.3 and above
+# Dependencies 
+. Newtonsoft.Json 12.0.3 and above
+. System.Drawing.Common 5.0.0 and above
 
 # How to save videos
 public void SaveVideo()
