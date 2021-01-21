@@ -41,8 +41,6 @@ Go to NuGet - https://www.nuget.org/packages/Instadown/
 
 Credit/Debit Card - https://paystack.com/buy/instadowndonations
 
-Bitcoin Wallet Address - 36uVDZ7XVukrbM5DitAdEx1eNnqQNUVNgf
-
-Ethereum Wallet Address - 0x5256017bE8457eECC81F6F9a2cE0D2b4D03Fb767
+Cryptocurrency - https://commerce.coinbase.com/checkout/ea196a3e-ecc2-4f0b-9ebe-e800ec435a8a
 
 Skrill - creativegreatonic@gmail.com
